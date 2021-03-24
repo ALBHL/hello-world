@@ -1,5 +1,5 @@
 # hello-world
-Just say hello to git hub
+Just say hello to GitHub
 
 Hi!!
 
